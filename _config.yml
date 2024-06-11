@@ -121,20 +121,20 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:pikapika9355@gmail.com"
+      url: "mailto:pikapika9355@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://000vlog.tistory.com/"
+      url: "https://000vlog.tistory.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/"
+      url: "https://twitter.com/"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/hyemsnail"
+      url: "https://github.com/hyemsnail"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/"
+      url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -147,7 +147,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url:https://github.com/hyemsnail
+      url: "https://github.com/hyemsnail"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
