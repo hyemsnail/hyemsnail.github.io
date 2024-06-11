@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
   name             : "hyemsnail"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "C:\Users\Owner\Pictures\Camera Roll"
   bio              : "student"
   location         : "Seoul/Korea"
   email            :
